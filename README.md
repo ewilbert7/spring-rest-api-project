@@ -80,9 +80,9 @@ spring:
 
 ### API Endpoints
 
-- **User Registration**: `POST /api/auth/register`
-- **User Login**: `POST /api/auth/login`
-- **Secured Endpoint**: `GET /api/user/me` (Requires JWT)
+- **User Registration**: `POST /api/v1/auth/register`
+- **User Login**: `POST /api/v1/auth/authenticate`
+- **Secured Endpoint**: `GET /api/v1/democontroller` (Requires JWT)
 
 
 ## Acknowledgements
