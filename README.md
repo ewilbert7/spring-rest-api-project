@@ -1,4 +1,4 @@
-# Spring Security JWT API Project
+# Spring Rest API Project
 
 This is a Spring Boot project that demonstrates user authentication and registration using JSON Web Tokens (JWT). The project showcases essential security features such as user login, registration, and secured endpoints.
 
